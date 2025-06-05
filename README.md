@@ -75,7 +75,7 @@
 
 ###
 
-<p align="left">6.1.	Актуальная версия Политики публикуется по адресу: github.com/DeveloperMirOmsk/MirPC</p>
+<p align="left">6.1.	Актуальная версия Политики публикуется по адресу: https://github.com/DeveloperMirOmsk/MirPC/blob/main/README.md</p>
 
 ###
 
